@@ -8,3 +8,5 @@ To run this app:
 1. runGitHub( "DevDataProducts_Project", "ardiaful"), or
 
 2. shinyapps.io: https://ardiaful.shinyapps.io/9-Data-Scientist_Developing-Data-Products
+
+An App presentation has also been added at http://rpubs.com/ardiaful/devdataprods-project
